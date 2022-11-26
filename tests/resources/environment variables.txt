@@ -1,0 +1,5 @@
+export Clicked_Image_Bucket=[Bucket Name]
+export Region=[Region]
+export Clicked_Image_Path=[Image Path]
+export Host=[server IP address]
+export RUST_LOG=[Project Name]=[Log Level]
